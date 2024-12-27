@@ -4,7 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Angel Zlatenov
+ * WeatherData is a concrete implementation of the Station interface.
+ * It manages temperature data and notifies registered observers of any changes.
+ * 
+ * @see Station
+ * @see Observer
+ * 
+ * @autor Angel Zlatenov
  */
 public class WeatherData implements Station {
     private List<Observer> observers = new ArrayList<>();

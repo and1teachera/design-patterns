@@ -1,8 +1,18 @@
 package com.zlatenov;
 
 /**
- * @author Angel Zlatenov
+ * Display is a business model interface that extends the Observer interface.
+ * It represents a display element that shows the current state.
+ * 
+ * @see Observer
+ * @see PhoneDisplay
+ * @see WindowDisplay
+ * 
+ * @autor Angel Zlatenov
  */
 public interface Display extends Observer {
+    /**
+     * Displays the current state.
+     */
     void show();
 }

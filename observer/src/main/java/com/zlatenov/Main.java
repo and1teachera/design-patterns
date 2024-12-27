@@ -1,7 +1,16 @@
 package com.zlatenov;
 
 /**
- * @author Angel Zlatenov
+ * Main class to demonstrate the usage of the Observer pattern in a weather monitoring system.
+ * It shows how to register, update, and remove observers at runtime.
+ * 
+ * @see Station
+ * @see WeatherData
+ * @see Display
+ * @see PhoneDisplay
+ * @see WindowDisplay
+ * 
+ * @autor Angel Zlatenov
  */
 public class Main {
     public static void main(String[] args) {
