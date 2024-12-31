@@ -1,5 +1,8 @@
 # Read Me First
 
+## CI/CD pipeline status
+[![Run Tests](https://github.com/and1teachera/design-patterns/actions/workflows/ci.yaml/badge.svg)](https://github.com/and1teachera/design-patterns/actions/workflows/ci.yaml)
+
 
 # Getting Started
 
