@@ -1,8 +1,5 @@
-import com.zlatenov.Display;
-import com.zlatenov.PhoneDisplay;
-import com.zlatenov.Station;
-import com.zlatenov.WeatherData;
-import com.zlatenov.WindowDisplay;
+package com.zlatenov;
+
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
