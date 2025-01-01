@@ -1,8 +1,5 @@
-import com.zlatenov.Coffee;
-import com.zlatenov.MilkDecorator;
-import com.zlatenov.SimpleCoffee;
-import com.zlatenov.SugarDecorator;
-import com.zlatenov.WhipCreamDecorator;
+package com.zlatenov;
+
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

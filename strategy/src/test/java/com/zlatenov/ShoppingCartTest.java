@@ -1,3 +1,5 @@
+package com.zlatenov;
+
 import com.zlatenov.designpatterns.BitcoinPayment;
 import com.zlatenov.designpatterns.CreditCardPayment;
 import com.zlatenov.designpatterns.PayPalPayment;
