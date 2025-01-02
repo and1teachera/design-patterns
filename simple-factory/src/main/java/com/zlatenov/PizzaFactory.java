@@ -4,9 +4,12 @@ package com.zlatenov;
  * PizzaFactory is a simple factory that creates different types of pizzas.
  * It encapsulates the object creation logic and provides a single point of entry for creating pizzas.
  *
+ * @see Pizza
+ *
  * @author Angel Zlatenov
  */
 public class PizzaFactory {
+
     /**
      * Creates and returns a pizza based on the provided type.
      *

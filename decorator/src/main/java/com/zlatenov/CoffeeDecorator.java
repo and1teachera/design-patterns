@@ -9,7 +9,7 @@ package com.zlatenov;
  * @see SugarDecorator
  * @see WhipCreamDecorator
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public abstract class CoffeeDecorator implements Coffee {
 

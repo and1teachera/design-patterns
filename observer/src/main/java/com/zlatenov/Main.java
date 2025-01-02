@@ -10,7 +10,7 @@ package com.zlatenov;
  * @see PhoneDisplay
  * @see WindowDisplay
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public class Main {
     public static void main(String[] args) {

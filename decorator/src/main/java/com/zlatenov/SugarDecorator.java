@@ -7,7 +7,7 @@ package com.zlatenov;
  * @see CoffeeDecorator
  * @see Coffee
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public class SugarDecorator extends CoffeeDecorator {
     /**

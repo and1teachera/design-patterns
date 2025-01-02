@@ -6,7 +6,7 @@ package com.zlatenov.designpatterns;
  * 
  * @see PaymentStrategy
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public class PayPalPayment implements PaymentStrategy {
     private String email;

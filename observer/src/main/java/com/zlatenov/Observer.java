@@ -5,7 +5,7 @@ package com.zlatenov;
  * 
  * @see Subject
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public interface Observer {
     /**
