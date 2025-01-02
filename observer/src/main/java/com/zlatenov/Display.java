@@ -8,7 +8,7 @@ package com.zlatenov;
  * @see PhoneDisplay
  * @see WindowDisplay
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public interface Display extends Observer {
     /**

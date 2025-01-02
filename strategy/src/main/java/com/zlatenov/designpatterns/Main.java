@@ -3,7 +3,13 @@ package com.zlatenov.designpatterns;
 /**
  * Main class to demonstrate the usage of the Strategy pattern in a shopping cart payment system.
  * It shows how to switch between different payment strategies at runtime.
- * 
+ *
+ * @see ShoppingCart
+ * @see PaymentStrategy
+ * @see CreditCardPayment
+ * @see PayPalPayment
+ * @see BitcoinPayment
+ *
  * @author Angel Zlatenov
  */
 public class Main {

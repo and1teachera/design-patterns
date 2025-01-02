@@ -3,6 +3,11 @@ package com.zlatenov;
 /**
  * Main class to demonstrate the usage of the Simple Factory pattern in a pizza store context.
  *
+ * @see Pizza
+ * @see PizzaFactory
+ * @see CheesePizza
+ * @see PepperoniPizza
+ *
  * @author Angel Zlatenov
  */
 public class Main {

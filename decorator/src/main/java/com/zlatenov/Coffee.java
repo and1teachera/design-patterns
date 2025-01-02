@@ -6,7 +6,7 @@ package com.zlatenov;
  * 
  * @see SimpleCoffee
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public interface Coffee {
 

@@ -4,6 +4,12 @@ package com.zlatenov;
  * Demonstrates the usage of the Decorator pattern in a coffee shop context.
  * Shows how different coffee combinations can be created dynamically using decorators.
  *
+ * @see Coffee
+ * @see SimpleCoffee
+ * @see MilkDecorator
+ * @see SugarDecorator
+ * @see WhipCreamDecorator
+ *
  * @author Angel Zlatenov
  */
 public class Main {

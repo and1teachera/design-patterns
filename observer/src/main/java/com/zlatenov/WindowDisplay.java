@@ -6,7 +6,7 @@ package com.zlatenov;
  * 
  * @see Display
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public class WindowDisplay implements Display {
     private String name;

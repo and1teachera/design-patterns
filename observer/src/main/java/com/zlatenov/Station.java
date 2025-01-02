@@ -7,7 +7,7 @@ package com.zlatenov;
  * @see Subject
  * @see WeatherData
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public interface Station extends Subject {
     /**

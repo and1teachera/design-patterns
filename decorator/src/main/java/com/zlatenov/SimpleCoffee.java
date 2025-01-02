@@ -6,7 +6,7 @@ package com.zlatenov;
  * 
  * @see Coffee
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public class SimpleCoffee implements Coffee {
     @Override

@@ -8,7 +8,7 @@ package com.zlatenov;
  * @see Station
  * @see WeatherData
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public interface Subject {
     /**

@@ -3,8 +3,10 @@ package com.zlatenov.designpatterns;
 /**
  * ShoppingCart is the context class in the Strategy pattern.
  * It maintains a reference to a PaymentStrategy and delegates the payment processing to the strategy.
- * 
- * @autor Angel Zlatenov
+ *
+ * @see PaymentStrategy
+ *
+ * @author Angel Zlatenov
  */
 public class ShoppingCart {
     private PaymentStrategy paymentStrategy;

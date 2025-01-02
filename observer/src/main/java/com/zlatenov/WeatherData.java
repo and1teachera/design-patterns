@@ -10,7 +10,7 @@ import java.util.List;
  * @see Station
  * @see Observer
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public class WeatherData implements Station {
     private List<Observer> observers = new ArrayList<>();

@@ -8,7 +8,7 @@ package com.zlatenov.designpatterns;
  * @see CreditCardPayment
  * @see PayPalPayment
  * 
- * @autor Angel Zlatenov
+ * @author Angel Zlatenov
  */
 public interface PaymentStrategy {
 
